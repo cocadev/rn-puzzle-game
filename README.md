@@ -1,1 +1,1 @@
-# rn-puzzle-game using expo-cli
+# reactnative-puzzle-game using expo-cli
